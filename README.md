@@ -10,3 +10,27 @@ Tasks completed:
 - Fetch all prices
 - Find max and min price
 - Map titles with prices
+
+
+## test_bootstrapexercise3.py : Automating Auto-Suggest Dropdown in Flipkart using Playwright
+
+### Tasks Completed
+
+- Opened Flipkart website
+- Located the search textbox
+- Typed `smart` in the search field
+- Captured all auto-suggestion dropdown values
+- Printed total number of suggestions
+- Printed the 5th suggestion
+- Printed all suggestions one by one
+- Selected the `smartphone` suggestion dynamically
+- Added assertion to verify suggestions are displayed
+
+### Concepts Used
+
+- Playwright Locators
+- Bootstrap / Auto-Suggest Dropdown Handling
+- `all_text_contents()`
+- `nth()`
+- Loops and Conditions
+- Assertions using `expect()`
