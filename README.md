@@ -41,8 +41,8 @@ Tasks completed:
 
 - 1. Count total number of rows in table
 - 2. Count total number of headers
-  3. Read all data from row 2
-  4. Read all data excluding header
-  5. Print books whose author is Mukesh
-  6. Calculate total price
+- 3. Read all data from row 2
+- 4. Read all data excluding header
+- 5. Print books whose author is Mukesh
+- 6. Calculate total price
  
