@@ -45,4 +45,23 @@ Tasks completed:
 - 4. Read all data excluding header
 - 5. Print books whose author is Mukesh
 - 6. Calculate total price
- 
+
+
+
+ ### test_Handling_dynamictables.py
+
+
+ ### Task completed
+
+ - Test Scenario
+
+- The script performs the following validations:
+
+    1. Opens Dynamic Table webpage
+    2. Captures all table headers
+    3. Finds CPU column position dynamically
+    4. Reads all rows from table
+    5. Identifies Chrome row
+    6. Extracts Chrome CPU percentage
+    7. Validates yellow highlighted CPU value
+    8. Performs assertion using expect()
