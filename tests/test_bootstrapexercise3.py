@@ -20,7 +20,7 @@ def test_bootstrap_excercise(page:Page):
 
     b = page.locator("li.Swx5kP")
 
-    page.wait_for_timeout(5000)
+    page.wait_for_timeout(15000)
 
     # Store all suggestion texts in list
 
